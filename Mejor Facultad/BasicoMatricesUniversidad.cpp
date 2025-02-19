@@ -77,7 +77,7 @@ void llamaCiclo() {
             repetir = false;
             cout << "\nResultados finales:\n";
             cout << "Total de cálculos realizados: " << total_calculos << " veces.\n";
-            cout << "Facultad de Ingeniería gano: " << victorias_ingenieria << " veces.\n";
+            cout << "Facultad de Ingenieria gano: " << victorias_ingenieria << " veces.\n";
             cout << "Facultad de Arquitectura gano: " << victorias_arquitectura << " veces.\n";
             cout << "Facultad de Administración gano: " << victorias_administracion << " veces.\n";
 
