@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1743353591 source:c:\programacion 1\progra\programacion1\laboratorio sobre bibliotecas (encabezado e implementación)\futbollcam\src\campeonato.cpp
+	"Campeonato.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1743353592 c:\programacion 1\progra\programacion1\laboratorio sobre bibliotecas (encabezado e implementación)\futbollcam\include\campeonato.h
+	<vector>
+	<string>
+	<utility>
+
+1743353621 source:c:\programacion 1\progra\programacion1\laboratorio sobre bibliotecas (encabezado e implementación)\futbollcam\main.cpp
+	"Campeonato.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+
